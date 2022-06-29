@@ -5,7 +5,7 @@ export default function BootstrapCarousel() {
     return (
 
         <>
-            <marquee height='25px' scrollamount='10' direction="right"><h5 style={{color:'red'}}> This Website is Under Construction. Navigation Bar Buttons are not Working . Information provided in up to the date. You will see a Better version Very Soon.</h5></marquee>
+            <marquee height='25px' scrollamount='10' direction="left"><h5 style={{color:'red'}}> This Website is Under Construction. Navigation Bar Buttons are not Working . Information provided in up to the date. You will see a Better version Very Soon.</h5></marquee>
             <Carousel>
                 <Carousel.Item>
                     <img
