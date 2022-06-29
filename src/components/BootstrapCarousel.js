@@ -11,7 +11,7 @@ export default function BootstrapCarousel() {
                         className="d-block"
                         style={{height : '70vh' , width : '100vw'}}
                         src="./images/1.jpg"
-                        alt='Image 1'
+                        alt='First Slide'
                     />
                     <Carousel.Caption>
                         <h3>Welcome to my Portfolio - built for programmers</h3>
