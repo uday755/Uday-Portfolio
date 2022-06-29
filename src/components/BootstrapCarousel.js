@@ -16,7 +16,7 @@ export default function BootstrapCarousel() {
                     />
                     <Carousel.Caption>
                         <h3>Welcome to my Portfolio - built for programmers</h3>
-                        <p >"Code can make you God or can take you on Road"</p>
+                        <p className='text-info'>"Code can make you God or can take you on Road"</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -29,7 +29,7 @@ export default function BootstrapCarousel() {
 
                     <Carousel.Caption>
                         <h3>A developer can understand a developer</h3>
-                        <p>"Code Never Lies ,Comments Sometimes Do" --- Ron Jeffries</p>
+                        <p className='text-success'>"Code Never Lies ,Comments Sometimes Do" --- Ron Jeffries</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -42,7 +42,7 @@ export default function BootstrapCarousel() {
 
                     <Carousel.Caption>
                         <h3>Life for Code , Code for Life</h3>
-                        <p>"First Solve the Problem , Then write the Code" --- Martin Flower</p>
+                        <p className='text-warning'>"First Solve the Problem , Then write the Code" --- Martin Flower</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

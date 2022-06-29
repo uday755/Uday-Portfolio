@@ -23,9 +23,9 @@ export default function Introduction() {
                     <h4><strong className='text-danger'>Programming Languages</strong></h4>
                     <div className="container">
                         <ul style={{ color: 'green' }}>
-                            <li><h4>HTML - Hyper Text Markup Language </h4></li>
-                            <li><h4>CSS - Cascading Style Sheets</h4></li>
-                            <li><h4>JavaScript - Fastest Growing Language </h4></li>
+                            <li><h4>HTML5 - Hyper Text Markup Language </h4></li>
+                            <li><h4>CSS3 - Cascading Style Sheets</h4></li>
+                            <li><h4>Vanilla JavaScript - Fastest Growing Language </h4></li>
                             <li><h4>C/C++</h4></li>
                             <li><h4>Core Java</h4></li>
                         </ul>
@@ -37,7 +37,7 @@ export default function Introduction() {
                     <h4>1. <strong ><a rel='noreferrer' href="https://uday755.github.io/TextUtils/" target={"_blank"}>TextUtils</a></strong> - a text Utility application can be used for text manipulation</h4>
                     <h4>2. <strong>Spotify</strong> - clone of popular music app Spotify </h4>
                     <h4>3. <strong>NewsWorld </strong> - a News Application which can be used for personal purpose for daily Updates</h4>
-                    <h4>4. <strong>Uday-Portfolio </strong> - My Personal Portfolio Website</h4>
+                    <h4>4. <strong><a rel='noreferrer' href="https://uday755.github.io/Uday-Portfolio/"> Uday-Portfolio</a></strong> - My Personal Portfolio Website</h4>
                     <h4>5. <strong> MagicNotes </strong>- a Notes Taking Application for Personal purpose</h4>
                 </div>
                 <hr />
