@@ -4,7 +4,7 @@ export default function Introduction() {
     return (
         <>
         <div>
-            <div className="container">
+            <div className="container my-5">
                 <h2>Hello There !</h2>
                 <h3>I am <strong className='text-success'>Uday Singh</strong> - Web Developer , Programmer, Technology Enthusiast and a Nature Lover</h3>
                 <div className="container my-3">
