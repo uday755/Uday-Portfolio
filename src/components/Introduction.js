@@ -9,38 +9,43 @@ export default function Introduction() {
                 <h3>I am <strong className='text-success'>Uday Singh</strong> - Web Developer , Programmer, Technology Enthusiast and a Nature Lover</h3>
                 <div className="container my-3">
                     <h4>Currently Persuing My B.Tech in -</h4>
-                    <h5 className='text-info'>Computer Science and Engineering from - </h5>
-                    <h3 className='text-primary'>Indian Institute of Technology Guwahati , Guwahati</h3>
+                    <h5 className='text-secondary'>Computer Science and Engineering from - </h5>
+                    <h3 className='text-info font-italic'>Indian Institute of Technology Guwahati </h3>
                     <h5>Assam , <strong>INDIA</strong></h5>
                 </div>
                 <div className="container my-3">
-                    <h3 className='text-success'><strong>Frameworks</strong> - in which I am Working</h3>
+                    <h3 className='text-success'><strong>Web Technologies</strong> - in which I am Working</h3>
+                    <hr />
                     <ul>
                         <li><strong>React </strong> - most Popular Single Page Library often called as Framework</li>
+                        <li><strong >MongoDB</strong> - Classified as NoSQL document-oreinted Database program </li>
+                        <li><strong>Express</strong> - a back end web application framework for building RESTful APIs with Node.js</li>
+                        <li><strong>Node.js</strong> - a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine</li>
+                        <li><strong>Bootstrap</strong> - a free and open-source CSS framework directed at responsive, mobile-first front-end web development.</li>
+                        <li><strong>HTML5, CSS3, Vanilla JavaScript</strong> - Basic Ingredients of a Web Page for structuring , designing and dynamic updations respecitvely.</li>
                     </ul>
                 </div>
                 <div className="container my-3">
-                    <h4><strong className='text-danger'>Programming Languages</strong></h4>
-                    <div className="container">
-                        <ul style={{ color: 'green' }}>
-                            <li><h4>HTML5 - Hyper Text Markup Language </h4></li>
-                            <li><h4>CSS3 - Cascading Style Sheets</h4></li>
-                            <li><h4>Vanilla JavaScript - Fastest Growing Language </h4></li>
-                            <li><h4>C/C++</h4></li>
-                            <li><h4>Core Java</h4></li>
+                        <h4><strong className='text-danger'>Programming Skills </strong></h4>
+                        <hr />
+                        <ul>
+                            <li><strong>C and C++ </strong> - for Problem Solving i.e. Data Structures and Algorithms</li>
+                            <li><strong>Core Java </strong> - for android app development</li>
+                            <li><strong>JavaScript</strong> - for web development</li>
+                            <li><strong>LaTeX</strong> - for production of technical and scientific documents.</li>
+                            <li><strong>SQL i.e. Structued Query Language</strong> for database creation and manipulations </li>
                         </ul>
-                    </div>
                 </div>
                 <div className="container my-3">
-                    <h3>Projects on which I am currently Working Now : </h3>
+                    <h4><strong className='text-warning'> Projects on which I am currently Working Now :</strong> </h4>
                     <hr />
-                    <h4>1. <strong ><a rel='noreferrer' href="https://uday755.github.io/TextUtils/" target={"_blank"}>TextUtils</a></strong> - a text Utility application can be used for text manipulation</h4>
-                    <h4>2. <strong>Spotify</strong> - clone of popular music app Spotify </h4>
-                    <h4>3. <strong>NewsWorld </strong> - a News Application which can be used for personal purpose for daily Updates</h4>
-                    <h4>4. <strong><a rel='noreferrer' href="https://uday755.github.io/Uday-Portfolio/"> Uday-Portfolio</a></strong> - My Personal Portfolio Website</h4>
-                    <h4>5. <strong> MagicNotes </strong>- a Notes Taking Application for Personal purpose</h4>
+                    <ul>
+                        <li><strong ><a rel='noreferrer' href="https://uday755.github.io/TextUtils/" target={"_blank"}>TextUtils</a></strong> - a text Utility application built using <strong>MERN Stack</strong> that can be used for text manipulation i.e. converting to uppercase/lowercase or word count / line count etc.</li>
+                        <li><strong><a rel='noreferrer' href="https://uday755.github.io/Uday-Portfolio/" target='{"_blank"}'> Uday-Portfolio</a></strong> - My Personal Portfolio Website using <strong>React and Bootstrap</strong></li>
+                        <li><strong> MagicNotes </strong>- a Notes Taking Application using MERN Stack where user can save or edit or update Notes</li>
+                        <li><strong>NewsWorld </strong> - a News Application built with <strong>HTML , JavaScript, Bootstrap, News API</strong> which features daily Updates for personal purpose <strong>(Runs only in Local Host)</strong> </li>
+                    </ul>
                 </div>
-                <hr />
                 <div className="container my-3">
                     <h4 className='text-center text-secondary'><strong>Educational Qualifications</strong>:</h4>
                     <ul>
