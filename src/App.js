@@ -9,7 +9,7 @@ function App() {
   return (
       <div>
         <Navbar />
-        {/* <BootstrapCarousel /> */}
+        <BootstrapCarousel />
         <Introduction/>
         <Contact/>
       </div>
