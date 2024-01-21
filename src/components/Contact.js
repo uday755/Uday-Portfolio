@@ -3,8 +3,8 @@ import React from 'react'
 export default function Contact() {
     return (
         <div>
-            <div className="container my-5 ">
-                <h3 className='text-center text-secondary'><strong>Contact Me For Queries </strong></h3>
+            <div className="container my-5 mx-5 ">
+                <h3 className='text-center text-secondary'><strong>Contact Me For Queries / Professional Work </strong></h3>
                 <form className="row g-3 needs-validation" novalidate>
                     <div className="col-md-4">
                         <label for="validationCustom01" className="form-label">Your Full Name</label>
