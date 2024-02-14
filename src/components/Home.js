@@ -1,12 +1,12 @@
 import React from 'react'
 
-export default function Introduction() {
+export default function Home() {
     return (
         <>
         <div>
             <div className="container my-5">
                 <h2>Hello There !</h2>
-                <h3>I am <strong className='text-success'>Uday Singh</strong> - Web Developer , Programmer, Technology Enthusiast and a Nature Lover</h3>
+                <h3>Myself <strong className='text-success'>Uday Singh</strong> - A Passionate Developer and Tech Enthusiast</h3>
                 <div className="container my-3">
                     <h4>Currently Persuing My B.Tech in -</h4>
                     <h5 className='text-secondary'>Computer Science and Engineering from - </h5>
@@ -17,10 +17,10 @@ export default function Introduction() {
                     <h3 className='text-success'><strong>Web Technologies</strong> - in which I am Working</h3>
                     <hr />
                     <ul>
-                        <li><strong>React </strong> - most Popular Single Page Library often called as Framework</li>
-                        <li><strong >MongoDB</strong> - Classified as NoSQL document-oreinted Database program </li>
-                        <li><strong>Express</strong> - a back end web application framework for building RESTful APIs with Node.js</li>
+                        <li><strong>React </strong> - A free and open-source front-end JavaScript library for building user interfaces based on components,  maintained by Meta and a community of individual developers and companies. </li>
                         <li><strong>Node.js</strong> - a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine</li>
+                        <li><strong>Express</strong> - a back end web application framework for building RESTful APIs with Node.js</li>
+                        <li><strong >MongoDB</strong> - Classified as NoSQL document-oriented Database program </li>
                         <li><strong>Bootstrap</strong> - a free and open-source CSS framework directed at responsive, mobile-first front-end web development.</li>
                         <li><strong>HTML5, CSS3, Vanilla JavaScript</strong> - Basic Ingredients of a Web Page for structuring , designing and dynamic updations respecitvely.</li>
                     </ul>
